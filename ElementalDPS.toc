@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: ElementalDPS
+## Notes: One-button priority addon for Turtle WoW Elemental Shamans.
+## Author: Codex + mikke
+## Version: 1.0.0
+## SavedVariables: EDPS_DB
+
+ElementalDPS.lua
