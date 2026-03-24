@@ -2,7 +2,7 @@
 
 `ElementalDPS` is a simple one-button priority addon for Elemental Shaman on Turtle WoW.
 
-It is built for a macro-spam playstyle and supports SuperWoW.
+It is built for a macro-spam playstyle and requires SuperWoW.
 
 ## Features
 
@@ -49,5 +49,5 @@ Spam that macro in combat.
 
 ## Notes
 
-- SuperWoW is recommended
+- SuperWoW is required
 - This addon is made for Turtle WoW
